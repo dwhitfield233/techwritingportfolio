@@ -1,11 +1,9 @@
 title: Danielle Whitfield 
 logo: "/images/profile-image.jpg?raw=true" 
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+description: >
   <br>A sample of my technical writing work, including customer-facing documentation and academic work.<br>
-  # Second description 
-  # <br><br>
+  
   <a href="https://www.linkedin.com/in/danielle-whitfield-569257140/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
