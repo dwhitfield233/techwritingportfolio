@@ -19,8 +19,6 @@
 [Honor's Thesis](pdf/Danielle_Whitfield_Thesis.pdf)
 <br> A research project where a dispersion analysis was conducted on linearly polarized synchrotron emission data in order to characterize the magnetix turbulence of spiral galaxy IC 342.
 
----
-
 
 
 
