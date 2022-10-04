@@ -4,9 +4,9 @@ description: >
   <br>A sample of my technical writing work, including customer-facing documentation and academic work.<br>
   <br>
   
-  <a href="https://github.com/dwhitfield233">View my Github Page</a>
+  <a href="https://github.com/dwhitfield233" target="_blank">View my Github Page</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/danielle-whitfield-569257140/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/danielle-whitfield-569257140/" target="_blank">View My LinkedIn Profile</a> 
   <br>
   
 theme: jekyll-theme-minimal
