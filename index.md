@@ -2,7 +2,7 @@
 
 ---
 
-### Customer - Facing Documentation 
+### Customer-Facing Documentation 
 
 [Secitgo CA Connector Guide](https://docs.sectigo.com/scm/scm-guides/1/scm-admin-guides/sectigo-ca-connector.html)
 <br>A customer-facing guide that describes how to install and configure the CA Connestor, including configuration with third-party backends
