@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Customer - Facing Documentation 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Secitgo CA Connector Guide](https://docs.sectigo.com/scm/scm-guides/1/scm-admin-guides/sectigo-ca-connector.html))
+A customer-facing guide that describes how to install and configure the CA Connestor, including configuration with third-party backends
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Secitgo Avi Vantage Certificate Management Guide](https://docs.sectigo.com/scm/avi-vantage-certificate-management/1/sectigo-avi-vantage-certificate-management.html)
+A guide for security administrators to set up and use the Avi Certificate Management solution to manage the renewal of certificates
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Academic Documentation
+
+- [Honor's Thesis](http://example.com/)
 
 ---
 
