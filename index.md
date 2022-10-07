@@ -2,7 +2,7 @@
 
 ---
 
-### Customer-Facing Documentation 
+### User Guides 
 
 [Secitgo CA Connector Guide](https://docs.sectigo.com/scm/scm-guides/1/scm-admin-guides/sectigo-ca-connector.html){:target="_blank"}
 <br>A customer-facing guide that describes how to install and configure the CA Connector, including configuration with third-party backends.
@@ -14,10 +14,10 @@
 ---
 
 
-### Academic Documentation
+### Research Projects 
 
 [Honor's Thesis](pdf/Danielle_Whitfield_Thesis.pdf){:target="_blank"}
-<br> A research project where a dispersion analysis was conducted on linearly polarized synchrotron emission data in order to characterize the magnetix turbulence of spiral galaxy IC 342.
+<br> A dispersion analysis of linearly polarized synchrotron emission data to characterize the magnetic turbulence of spiral galaxy IC 342.
 
 
 
