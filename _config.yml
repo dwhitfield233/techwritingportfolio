@@ -1,5 +1,8 @@
 title: Danielle Whitfield 
 logo: "/images/profile-image.png?raw=true" 
+{
+Overflow-y:scroll
+}
 description: >
   <br> I'm a technical writer with over four years of experience writing and edition documentation for software validation and customer use.
   This portfolio contains sample of my technical writing work, including customer-facing documentation and academic projects.<br>
@@ -10,7 +13,6 @@ description: >
   <a href="https://www.linkedin.com/in/danielle-whitfield-569257140/" target="_blank">View My LinkedIn Profile</a> 
   <br><br>
   <a href="https://github.com/dwhitfield233/techwritingportfolio/" target="_blank">View the Project on Github</a> 
-  <br>
   
   <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
   
