@@ -4,11 +4,11 @@
 
 ### User Guides 
 
-[Secitgo CA Connector Guide](https://docs.sectigo.com/scm/scm-guides/1/scm-admin-guides/sectigo-ca-connector.html){:target="_blank"}
+[Secitgo CA Connector Guide](https://docs.sectigo.com/scm/scm-guides/scm-admin-guides/sectigo-ca-connector.html){:target="_blank"}
 <br>A customer-facing guide that describes how to install and configure the CA Connector, including configuration with third-party backends.
 
 ---
-[Secitgo Avi Vantage Certificate Management Guide](https://docs.sectigo.com/scm/avi-vantage-certificate-management/1/sectigo-avi-vantage-certificate-management.html){:target="_blank"}
+[Secitgo Avi Vantage Certificate Management Guide](https://docs.sectigo.com/scm/avi-vantage-certificate-management/sectigo-avi-vantage-certificate-management.html){:target="_blank"}
 <br>A guide for security administrators to set up and use the Avi Certificate Management solution to manage certificate renewal.
 
 ---
