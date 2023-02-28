@@ -4,7 +4,7 @@
 
 ### User Guides 
 
-[Secitgo CA Connector Guide](https://docs.sectigo.com/scm/scm-administrator/scm-administrator-guide.html){:target="_blank"}
+[Secitgo CA Connector Guide](https://docs.sectigo.com/scm/scm-administrator/sectigo-ca-connector.html){:target="_blank"}
 <br>A customer-facing guide that describes how to install and configure the CA Connector, including configuration with third-party backends.
 
 ---
