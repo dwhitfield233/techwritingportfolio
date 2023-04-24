@@ -5,6 +5,7 @@
 
 The following documentation I worked on while contracted to Microsoft during my time at International Financial Group.
 
+---
 [Microsoft Viva Engage admin key concepts](https://learn.microsoft.com/en-us/viva/engage/admin-key-concepts){:target="_blank"}
 <br> A customer-facing article for Viva Engage administrators that describes the major concepts, decisions and tasks related to setting up Viva Engage within an organization.
 
