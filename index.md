@@ -25,7 +25,7 @@ The following documentation I worked on while contracted to Microsoft during my 
 <br>A customer-facing guide that describes how to install and configure the CA Connector, including configuration with third-party backends.
 
 ---
-[Secitgo Avi Vantage Certificate Management Solution](https://docs.sectigo.com/scm/avi-vantage-cm/overview.html){:target="_blank"}
+[Secitgo Avi Vantage Certificate Management Solution](https://docs.sectigo.com/scm/sectigo-connector-for-avi-vantage/overview.html){:target="_blank"}
 <br>A guide for security administrators to set up and use the Avi Certificate Management solution to manage certificate renewal.
 
 ---
