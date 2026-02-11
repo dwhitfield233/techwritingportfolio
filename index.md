@@ -31,7 +31,7 @@ These articles describe specific software features and how to use them.
 <br>
 
 ### Editing
-<br>I edited the following articles for the Absorb Help Center as part of my Technical Writer role at Absorb Software Inc. I've included both the updated article, and the original article prior to edits to display the scope of changes completed. All articles in this section were edited using HTML in Zendesk. 
+I edited the following articles for the Absorb Help Center as part of my Technical Writer role at Absorb Software Inc. I've included both the updated article, and the original article prior to edits to display the scope of changes completed. All articles in this section were edited using HTML in Zendesk. 
 
 [Workspace and User Menus in Absorb Create](pdf/Workspace%20and%20User%20Menus%20in%20Absorb%20Create%20-%20Standalone%20%20(Courses%20Menu%20after%20edits).pdf){:target="_blank"} 
 <br> This article describes how to navigate the main Workspace and associated menus in Absorb Create. I edited this article in HTML with feedback from a Subject Matter Expert, resulting in substantial updates to the article structure, content, and formatting.<br>
