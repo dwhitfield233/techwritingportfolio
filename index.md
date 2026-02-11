@@ -2,9 +2,11 @@
 Below are samples of my work from my roles at Absorb Software Inc., Microsoft, and Sectigo. These capture my experience with software documentation including managing extensive knowledge bases, editing documentation in collaboration with Subject Matter Experts, and communicating new and updated features through release notes. I've also included my undergraduate thesis, which demonstrates complex research and analysis techniques through both programming and mathematical solutions. 
 
 Articles written for the Absorb Help Center were created using HTML in Zendesk. Articles written for both Microsoft and Sectigo were created using docs-as-code principles in Github. <br>
+<br>
 
 ### Software Documentation
 These articles describe specific software features and how to use them. 
+
 
 [AI Podcasts and Scenarios in Absorb Create](https://support.absorblms.com/hc/en-us/articles/44467490013843-AI-Podcasts-and-Scenarios-in-Absorb-Create){:target="_blank"}
 <br> An instructional guide on how to access and create AI Podcasts and Scenarios using Absorb Create. 
@@ -26,6 +28,8 @@ These articles describe specific software features and how to use them.
 
 ---
 
+<br>
+
 ### Editing
 <br>I edited the following articles for the Absorb Help Center as part of my Technical Writer role at Absorb Software Inc. I've included both the updated article, and the original article prior to edits to display the scope of changes completed. All articles in this section were edited using HTML in Zendesk. 
 
@@ -42,6 +46,8 @@ Before Edits: [Courses Menu - Standalone](pdf/Courses%20Menu%20-%20Standalone%20
 Before Edits: [Viewing, Adding, and Editing Translations](pdf/Viewing,%20Adding%20and%20Editing%20Translations%20(before%20edits).pdf){:target="_blank"}
 
 ---
+
+<br>
 
 ### Guidance Documentation
 Articles that guide users on how to navigate, use, and find content in specfic areas of the Absorb Help Center. 
@@ -61,9 +67,10 @@ Articles that guide users on how to navigate, use, and find content in specfic a
 
 --- 
 
+<br>
 
 ### Release Management
-<br>These articles communicate new and updated features released to the Absorb LMS. 
+These articles communicate new and updated features released to the Absorb LMS. 
 
 [January 2026 Standalone Release Notes for Absorb Create](https://support.absorblms.com/hc/en-us/articles/47487681506451-January-2026-Standalone-Update-Block-Pages-and-UI-Updates-for-Absorb-Create){:target="_blank"}
 <br> These release notes describe the feature updates launched to Absorb Create in January 2026.
@@ -74,6 +81,8 @@ Articles that guide users on how to navigate, use, and find content in specfic a
 <br> An overview of features released to the Absorb LMS in Q3 2025.
 
 ---
+
+<br>
 
 
 ### Research Projects 
