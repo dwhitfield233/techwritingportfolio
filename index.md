@@ -1,7 +1,7 @@
 ## Portfolio
 Below are samples of my work from my roles at Absorb Software Inc., Microsoft, and Sectigo. These capture my experience with software documentation including managing extensive knowledge bases, editing documentation in collaboration with Subject Matter Experts, and communicating new and updated features through release notes. I've also included my undergraduate thesis, which demonstrates complex research and analysis techniques through both programming and mathematical solutions. 
 
-Articles written for the Absorb Help Center were created using HTML in Zendesk. Articles written for both Microsoft and Sectigo were created using docs-as-code principles in Github. <br>
+Articles written for the Absorb Help Center were created using HTML in Zendesk. Articles written for both Microsoft and Sectigo were created using Docs as Code principles in Github. <br>
 <br>
 
 ### Software Documentation
@@ -41,7 +41,7 @@ Before Edits: [Courses Menu - Standalone](pdf/Courses%20Menu%20-%20Standalone%20
 ---
 
 [Viewing, Adding, and Editing Translations](https://support.absorblms.com/hc/en-us/articles/10849446463123-Viewing-Adding-and-Editing-Translations){:target="_blank"}
-<br> This article describes how to view available translations for the Absorb Learning Management System (LMS), in addition to adding and editing translations. I edited this article using HTML to align the style and formatting with the organization's style guide, including removing unnecessary headers and section divisions, correcting table formatting, and adding steps for greater clarity. <br>
+<br> This article describes how to view available translations for the Absorb Learning Management Solution (LMS), in addition to adding and editing translations. I edited this article using HTML to align the style and formatting with the organization's style guide, including removing unnecessary headers and section divisions, correcting table formatting, and adding steps for greater clarity. <br>
 
 Before Edits: [Viewing, Adding, and Editing Translations](pdf/Viewing,%20Adding%20and%20Editing%20Translations%20(before%20edits).pdf){:target="_blank"}
 
