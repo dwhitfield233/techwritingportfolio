@@ -1,5 +1,5 @@
 ## Portfolio
-Below are samples of my work from my roles at Absorb Software Inc., Microsoft, and Sectigo. These capture my experience with software documentation including managing extensive knowledge bases, editing documentation in collaboration with Subject Matter Experts, and communicating new and updated features through release notes. I've also included my undergraduate thesis, which demonstrates complex research and analysis techniques through both programming and mathematical solutions. 
+Below are samples of my work from my roles at Absorb Software Inc., Microsoft, and Sectigo. These capture my experience with software documentation including managing extensive knowledge bases, editing documentation in collaboration with subject matter experts, and communicating new and updated features through release notes. I've also included my undergraduate thesis, which demonstrates complex research and analysis techniques through both programming and mathematical solutions. 
 
 Articles written for the Absorb Help Center were created using HTML in Zendesk. Articles written for both Microsoft and Sectigo were created using Docs as Code principles in Github. <br>
 <br>
