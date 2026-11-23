@@ -9,9 +9,9 @@ Knowledge Base sections that I created or organized to improve navigation and ma
 
 
 [Absorb Aura](https://support.absorblms.com/hc/en-us/categories/51170984031891-Absorb-Aura){:target="_blank"}
-<br>A new section that I created in Absorb's Knowledge Base for Absorb Aura, a suite of AI Agents designed to enhance the customer experience in Absorb LMS.
+<br>A new section that I created in Absorb's Knowledge Base for Absorb Aura, a suite of AI Agents designed to enhance the customer experience in Absorb LMS.<br>
 <br>
-The goal when building this section was to group articles in sub-sections based the core feature they were associated with, such as the Learner Agent, Aura Rehearse, or Aura Configuration. I designed these sub-sections to be easily accessibile and discoverable from the home page, with each sub-section reachable within two clicks from the main help center. 
+The goal when building this section was to group articles in sub-sections based the core feature they were associated with, such as the Learner Agent, Aura Rehearse, or Aura Configuration. I designed these sub-sections to be easily accessibile and discoverable from the home page, with each sub-section reachable within two clicks from the main help center. <br>
 <br>
 New sub-sections are added for features that are not related to other existing product capabilities, and require their own sub-section to be clearly defined from other features. 
 
