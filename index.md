@@ -31,7 +31,7 @@ These articles describe specific software features and how to use them.
 <br>
 
 ### Editing
-I edited the following articles for the Absorb Help Center as part of my Technical Writer role at Absorb Software Inc. I've included both the updated article, and the original article prior to edits to display the scope of changes completed. All articles in this section were edited using HTML in Zendesk. 
+Articles that underwent significant edits to improve the content quality. I edited the following articles for the Absorb Help Center as part of my Technical Writer role at Absorb Software Inc. I've included both the updated article, and the original article prior to edits to display the scope of changes completed. All articles in this section were edited using HTML in Zendesk. 
 
 [Workspace and User Menus in Absorb Create](pdf/Workspace%20and%20User%20Menus%20in%20Absorb%20Create%20-%20Standalone%20%20(Courses%20Menu%20after%20edits).pdf){:target="_blank"} 
 <br> This article describes how to navigate the main Workspace and associated menus in Absorb Create. I edited this article in HTML with feedback from a Subject Matter Expert, resulting in substantial updates to the article structure, content, and formatting.<br>
@@ -70,7 +70,7 @@ Articles that guide users on how to navigate, use, and find content in specfic a
 <br>
 
 ### Release Management
-These articles communicate new and updated features released to the Absorb LMS. 
+Release notes that communicate new updates or changes to software. 
 
 [January 2026 Standalone Release Notes for Absorb Create](https://support.absorblms.com/hc/en-us/articles/47487681506451-January-2026-Standalone-Update-Block-Pages-and-UI-Updates-for-Absorb-Create){:target="_blank"}
 <br> These release notes describe the feature updates launched to Absorb Create in January 2026.
@@ -86,6 +86,7 @@ These articles communicate new and updated features released to the Absorb LMS.
 
 
 ### Research Projects 
+Projects that required long-term research and analysis of data. The final result combined those findings into a paper that discussed the results, challenges, and future work opportunities. 
 
 [Honor's Thesis](pdf/Danielle_Whitfield_Thesis.pdf){:target="_blank"}
 <br> A dispersion analysis of linearly polarized synchrotron emission data to characterize the magnetic turbulence of spiral galaxy IC 342 completed as part of my undergraduate degree in astrophysics. Written in LaTeX. 
