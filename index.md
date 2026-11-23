@@ -4,6 +4,26 @@ Below are samples of my work from my roles at Absorb Software Inc., Microsoft, a
 Articles written for the Absorb Help Center were created using HTML in Zendesk. Articles written for both Microsoft and Sectigo were created using Docs as Code principles in Github. <br>
 <br>
 
+### Information Architecture
+Knowledge Base sections that I created or organized to improve navigation and make information easier to find.
+
+
+[Absorb Aura](https://support.absorblms.com/hc/en-us/categories/51170984031891-Absorb-Aura){:target="_blank"}
+<br>A new section that I created in Absorb's Knowledge Base for Absorb Aura, a suite of AI Agents designed to enhance the customer experience in Absorb LMS.
+<br>
+The goal when building this section was to group articles in sub-sections based the core feature they were associated with, such as the Learner Agent, Aura Rehearse, or Aura Configuration. I designed these sub-sections to be easily accessibile and discoverable from the home page, with each sub-section reachable within two clicks from the main help center. 
+<br>
+New sub-sections are added for features that are not related to other existing product capabilities, and require their own sub-section to be clearly defined from other features. 
+
+---
+
+[Analyze Direct](https://support.absorblms.com/hc/en-us/sections/8529116830995-Analyze-Direct){:target="_blank"}
+<br>I revised this section from its original state to contain five articles instead of three. Two new articles were added to cover the different field types and data structures relevant to Analyze Direct, which were not previously documented. The three existing articles were revised and updated to align with the organization's style guide. 
+
+---
+
+<br>
+
 ### Software Documentation
 These articles describe specific software features and how to use them. 
 
@@ -13,7 +33,7 @@ These articles describe specific software features and how to use them.
 
 ---
 
-[Microsoft Viva Engage admin key concepts](pdf/Viva%20Engage%20admin%20key%20concepts.PDF){:target="_blank"}
+[Microsoft Viva Engage Admin Key Concepts](pdf/Viva%20Engage%20admin%20key%20concepts.PDF){:target="_blank"}
 <br> A customer-facing article for Viva Engage administrators that describes the major concepts, decisions and tasks related to setting up Viva Engage within an organization.
 
 ---
@@ -31,7 +51,7 @@ These articles describe specific software features and how to use them.
 <br>
 
 ### Editing
-I edited the following articles for the Absorb Help Center as part of my Technical Writer role at Absorb Software Inc. I've included both the updated article, and the original article prior to edits to display the scope of changes completed. All articles in this section were edited using HTML in Zendesk. 
+Articles that underwent significant edits to improve the content quality. I edited the following articles for the Absorb Help Center as part of my Technical Writer role at Absorb Software Inc. I've included both the updated article, and the original article prior to edits to display the scope of changes completed. All articles in this section were edited using HTML in Zendesk. 
 
 [Workspace and User Menus in Absorb Create](pdf/Workspace%20and%20User%20Menus%20in%20Absorb%20Create%20-%20Standalone%20%20(Courses%20Menu%20after%20edits).pdf){:target="_blank"} 
 <br> This article describes how to navigate the main Workspace and associated menus in Absorb Create. I edited this article in HTML with feedback from a Subject Matter Expert, resulting in substantial updates to the article structure, content, and formatting.<br>
@@ -70,7 +90,7 @@ Articles that guide users on how to navigate, use, and find content in specfic a
 <br>
 
 ### Release Management
-These articles communicate new and updated features released to the Absorb LMS. 
+Release notes that communicate new updates or changes to software. 
 
 [January 2026 Standalone Release Notes for Absorb Create](https://support.absorblms.com/hc/en-us/articles/47487681506451-January-2026-Standalone-Update-Block-Pages-and-UI-Updates-for-Absorb-Create){:target="_blank"}
 <br> These release notes describe the feature updates launched to Absorb Create in January 2026.
@@ -86,6 +106,7 @@ These articles communicate new and updated features released to the Absorb LMS.
 
 
 ### Research Projects 
+Projects that required long-term research and analysis of data. The final result combined those findings into a paper that discussed the results, challenges, and future work opportunities. 
 
 [Honor's Thesis](pdf/Danielle_Whitfield_Thesis.pdf){:target="_blank"}
 <br> A dispersion analysis of linearly polarized synchrotron emission data to characterize the magnetic turbulence of spiral galaxy IC 342 completed as part of my undergraduate degree in astrophysics. Written in LaTeX. 
