@@ -13,7 +13,7 @@ These articles describe specific software features and how to use them.
 
 ---
 
-[Microsoft Viva Engage admin key concepts](pdf/Viva%20Engage%20admin%20key%20concepts.PDF){:target="_blank"}
+[Microsoft Viva Engage Admin Key Concepts](pdf/Viva%20Engage%20admin%20key%20concepts.PDF){:target="_blank"}
 <br> A customer-facing article for Viva Engage administrators that describes the major concepts, decisions and tasks related to setting up Viva Engage within an organization.
 
 ---
